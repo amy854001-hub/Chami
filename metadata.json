@@ -1,0 +1,6 @@
+{
+  "name": "Charmi",
+  "description": "AI assistant app mimicking Google Gemini with a 3-tier model switcher, chat history sidebar, and integrated image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
